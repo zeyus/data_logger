@@ -1,10 +1,9 @@
 name: data_logger
-description: >-
-  Buffered app and data logging for Dart and Flutter. Rows are written to
-  TSV/CSV files on a background isolate, and any isolate can log to the same
-  files.
+description: High frequency app and data logging for Dart and Flutter.
 version: 0.1.0
 homepage: https://zeyus.com/
+repository: https://github.com/NexusDynamic/data_logger
+issue_tracker: https://github.com/NexusDynamic/data_logger/issues
 
 environment:
   sdk: ^3.9.0
